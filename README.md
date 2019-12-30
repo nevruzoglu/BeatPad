@@ -1,7 +1,7 @@
 # Music Player app
 
+# Used audio player widget and flutter functions to make basic player
 
-AudioPlayer used in this application,  get info from
 
 - [Audio Player widget by @luanpotter](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 
