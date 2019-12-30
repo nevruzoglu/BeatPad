@@ -1,9 +1,9 @@
 # Music Player app
 
 
-AudioPlayer used in this application, get get info from
+AudioPlayer used in this application,  get info from
 
-- [Audio Player by @luanpotter](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
+- [Audio Player widget by @luanpotter](https://github.com/luanpotter/audioplayers/blob/master/doc/audio_cache.md)
 
 
--![img]()
+-![img](https://github.com/nevruzoglu/musicPlayer/blob/master/assets/screen.png)
